@@ -9,7 +9,7 @@ def LeapYear(year):
         else:
             print("It is a Leap Year")
     else:
-        print("It is a Leap Year")
+        print("It is not a Leap Year")
 LeapYear(year)
 
 
